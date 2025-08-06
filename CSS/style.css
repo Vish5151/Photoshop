@@ -110,7 +110,7 @@
 .hero-section
 {
     height: 800px;
-    background: url(/PSD/Images/Image\ \(6\).png);
+    background: url(/images/Image\ \(6\).png);
     background-size: cover;
     padding-right: 900px;
 }
@@ -253,7 +253,7 @@ button
 
 .about-image
 {
-    background: linear-gradient(rgba(33, 95, 0, 0.5), rgba(33, 95, 0, 0.5)), url(/PSD/Images/Image\ \(5\).png);
+    background: linear-gradient(rgba(33, 95, 0, 0.5), rgba(33, 95, 0, 0.5)), url(/images/Image\ \(5\).png);
     height: 100%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -276,19 +276,19 @@ button
 
 .item-image1
 {
-    background: url(/PSD/Images/menu\ item\ 3.png);
+    background: url(/images/menu\ item\ 3.png);
     background-size: cover;
 }
 
 .item-image2
 {
-    background: url(/PSD/Images/menu\ item.png);
+    background: url(/images/menu\ item.png);
     background-size: cover;
 }
 
 .item-image3
 {
-    background: url(/PSD/Images/Image.png);
+    background: url(/images/Image.png);
     background-size: cover;
 }
 .item-name
@@ -300,14 +300,14 @@ button
 .offer-section, .offer-section2
 {
     padding: 50px 0px 50px 0px;
-    background: url(/PSD/Images/offer-bg.png);
+    background: url(/images/offer-bg.png);
     background-size: cover;
     margin: 100px 0px 100px 0px;
 }
 
 .offer-section2
 {
-    background: url(/PSD/Images/offer2-bg.png);
+    background: url(/images/offer2-bg.png);
     background-size: cover;
 }
 
@@ -428,13 +428,13 @@ button
 
 .blog-image1
 {
-    background: url(/PSD/Images/blog\ img\ 1.png);
+    background: url(/images/blog\ img\ 1.png);
     background-size: cover;
 }
 
 .blog-image2
 {
-    background: url(/PSD/Images/blog\ img\ 2.png);
+    background: url(/images/blog\ img\ 2.png);
     background-size: cover;
 }
 .footer-section
